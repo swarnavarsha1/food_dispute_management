@@ -1,0 +1,139 @@
+[
+    {
+      "order_id": "1001",
+      "customer_name": "John Smith",
+      "address": "123 Main St",
+      "phone": "555-123-4567",
+      "timestamp": "2025-03-18T18:30:00",
+      "items": [
+        {"name": "Pepperoni Pizza", "quantity": 1, "price": 14.99},
+        {"name": "Garlic Bread", "quantity": 1, "price": 4.99},
+        {"name": "Coca-Cola", "quantity": 1, "price": 2.50}
+      ],
+      "total": 22.48,
+      "payment_method": "Credit Card",
+      "delivery_status": "Delivered"
+    },
+    {
+      "order_id": "1002",
+      "customer_name": "Emily Johnson",
+      "address": "456 Oak Ave",
+      "phone": "555-987-6543",
+      "timestamp": "2025-03-18T18:45:00",
+      "items": [
+        {"name": "Vegetarian Pizza", "quantity": 1, "price": 15.99},
+        {"name": "Caesar Salad", "quantity": 1, "price": 8.99},
+        {"name": "Sprite", "quantity": 1, "price": 2.50}
+      ],
+      "total": 27.48,
+      "payment_method": "Cash",
+      "delivery_status": "Delivered"
+    },
+    {
+      "order_id": "1003",
+      "customer_name": "Michael Wong",
+      "address": "789 Pine Rd",
+      "phone": "555-456-7890",
+      "timestamp": "2025-03-18T19:00:00",
+      "items": [
+        {"name": "BBQ Chicken Pizza", "quantity": 1, "price": 16.99},
+        {"name": "Buffalo Wings", "quantity": 1, "price": 10.99},
+        {"name": "Pepsi", "quantity": 2, "price": 2.50}
+      ],
+      "total": 32.98,
+      "payment_method": "Credit Card",
+      "delivery_status": "Delivered"
+    },
+    {
+      "order_id": "1005",
+      "customer_name": "David Kim",
+      "address": "654 Maple Ave",
+      "phone": "555-789-0123",
+      "timestamp": "2025-03-18T19:30:00",
+      "items": [
+        {"name": "Hawaiian Pizza", "quantity": 1, "price": 15.99},
+        {"name": "Mozzarella Sticks", "quantity": 1, "price": 7.99},
+        {"name": "Ranch Dip", "quantity": 1, "price": 1.99},
+        {"name": "Diet Coke", "quantity": 1, "price": 2.50}
+      ],
+      "total": 28.47,
+      "payment_method": "Credit Card",
+      "delivery_status": "Delivered"
+    },
+    {
+      "order_id": "1006",
+      "customer_name": "Lisa Chen",
+      "address": "987 Cedar Ln",
+      "phone": "555-444-5555",
+      "timestamp": "2025-03-18T19:45:00",
+      "items": [
+        {"name": "Veggie Supreme Pizza", "quantity": 1, "price": 16.99},
+        {"name": "Greek Salad", "quantity": 1, "price": 9.99},
+        {"name": "Iced Tea", "quantity": 2, "price": 2.99}
+      ],
+      "total": 32.96,
+      "payment_method": "PayPal",
+      "delivery_status": "Delivered"
+    },
+    {
+      "order_id": "1007",
+      "customer_name": "James Wilson",
+      "address": "135 Birch St",
+      "phone": "555-666-7777",
+      "timestamp": "2025-03-18T20:00:00",
+      "items": [
+        {"name": "Meat Lovers Pizza", "quantity": 1, "price": 17.99},
+        {"name": "Chocolate Lava Cake", "quantity": 2, "price": 6.99},
+        {"name": "Root Beer", "quantity": 2, "price": 2.50}
+      ],
+      "total": 36.97,
+      "payment_method": "Credit Card",
+      "delivery_status": "Delivered"
+    },
+    {
+      "order_id": "1008",
+      "customer_name": "Jennifer Lopez",
+      "address": "246 Spruce Dr",
+      "phone": "555-888-9999",
+      "timestamp": "2025-03-18T20:15:00",
+      "items": [
+        {"name": "Spinach and Feta Pizza", "quantity": 1, "price": 15.99},
+        {"name": "Antipasto Salad", "quantity": 1, "price": 10.99},
+        {"name": "Bottled Water", "quantity": 2, "price": 1.99}
+      ],
+      "total": 30.96,
+      "payment_method": "Cash",
+      "delivery_status": "Delivered"
+    },
+    {
+      "order_id": "1009",
+      "customer_name": "Robert Taylor",
+      "address": "753 Walnut Ave",
+      "phone": "555-111-2222",
+      "timestamp": "2025-03-18T20:30:00",
+      "items": [
+        {"name": "Buffalo Chicken Pizza", "quantity": 1, "price": 16.99},
+        {"name": "Onion Rings", "quantity": 1, "price": 6.99},
+        {"name": "BBQ Sauce", "quantity": 2, "price": 0.99},
+        {"name": "Lemonade", "quantity": 2, "price": 2.99}
+      ],
+      "total": 32.93,
+      "payment_method": "Credit Card",
+      "delivery_status": "Delivered"
+    },
+    {
+      "order_id": "1010",
+      "customer_name": "Michelle Brown",
+      "address": "864 Aspen Ct",
+      "phone": "555-333-4444",
+      "timestamp": "2025-03-18T20:45:00",
+      "items": [
+        {"name": "Four Cheese Pizza", "quantity": 1, "price": 14.99},
+        {"name": "Chicken Tenders", "quantity": 1, "price": 8.99},
+        {"name": "Sweet Tea", "quantity": 2, "price": 2.99}
+      ],
+      "total": 29.96,
+      "payment_method": "Debit Card",
+      "delivery_status": "Delivered"
+    }
+  ]

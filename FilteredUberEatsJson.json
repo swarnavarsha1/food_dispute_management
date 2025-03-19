@@ -1,0 +1,33 @@
+{
+    "order_id": "bd1ed236",
+    "customer_full_name": "John Smith",
+    "created_time": "2016-09-01T10:11:12.123456-0500",
+    "completed_time": "2016-09-01T10:11:12.123456-0500",
+    "menu_items": [
+        {
+            "menu": "Cheese Pizza 18",
+            "quantity": 1,
+            "customer_requests": {
+                "allergy": {
+                    "allergens": [
+                        "PEANUTS"
+                    ],
+                    "instructions": "I am allergic to peanuts."
+                },
+                "special_instructions": "Add extra sauce"
+            }
+        },
+        {
+            "menu": "Chicken Burger",
+            "quantity": 2,
+            "customer_requests": {
+                "allergy": {
+                    "allergens": [
+                    ],
+                    "instructions": ""
+                },
+                "special_instructions": "Add extra mayo"
+            }
+        }
+    ]
+}
