@@ -1,0 +1,82 @@
+[
+    {
+        "image_id": 1,
+        "type": "bill",
+        "description": {
+            "store_name": null,
+            "date": "4/4/2020 7:08 PM",
+            "order_info": "Kitchen Printer\nUBER EATS 601",
+            "server": "Sham",
+            "customer_info": "1 Guests",
+            "items": [
+                {
+                    "name": "CHICKEN TIKKA MASALA",
+                    "specifications": "1 Spice Level: MEDIUM"
+                },
+                {
+                    "name": "CHICKEN CURRY",
+                    "specifications": "1 Spice Level: MEDIUM"
+                },
+                {
+                    "name": "RICE"
+                },
+                {
+                    "name": "MURADABADI GOSHT BIRYANI",
+                    "specifications": "1 Spice Level: MEDIUM"
+                },
+                {
+                    "name": "GARLIC NAAN"
+                },
+                {
+                    "name": "GARLIC NAAN"
+                }
+            ],
+            "additional_info": "Kitchen Printer\nUBER EATS 601\n1 Guests\n4/4/2020 7:08 PM"
+        }
+    },
+    {
+        "image_id": 2,
+        "type": "food",
+        "dish_name": "Hot Dog."
+    },
+    {
+        "image_id": 3,
+        "type": "food",
+        "dish_name": "Garlic Naan."
+    },
+    {
+        "image_id": 4,
+        "type": "food",
+        "dish_name": "Biryani"
+    },
+    {
+        "image_id": 5,
+        "type": "food",
+        "dish_name": "White Rice"
+    },
+    {
+        "image_id": 6,
+        "type": "food",
+        "dish_name": "Chicken Curry"
+    },
+    {
+        "image_id": 7,
+        "type": "food",
+        "dish_name": "Butter Chicken"
+    },
+    {
+        "image_id": 8,
+        "type": "food",
+        "dish_name": "Prepared meals"
+    },
+    {
+        "image_id": 9,
+        "type": "food",
+        "dish_name": "Burger and Fries"
+    },
+    {
+        "image_id": 10,
+        "type": "food",
+        "dish_name": "Sushi Takeout"
+    }
+]

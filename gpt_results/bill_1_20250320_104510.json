@@ -1,5 +1,5 @@
 {
-  "store_name": null,
+  "store_name": "Kitchen Printer",
   "date": "4/4/2020 7:08 PM",
   "order_info": "UBER EATS 601",
   "server": "Sham",
@@ -26,11 +26,5 @@
     {
       "name": "GARLIC NAAN"
     }
-  ],
-  "subtotal": null,
-  "tax": null,
-  "total": null,
-  "additional_info": [
-    "Kitchen Printer"
   ]
 }

@@ -1,0 +1,34 @@
+{
+  "store_name": null,
+  "date": "4/4/2020 7:08 PM",
+  "order_info": "UBER EATS 601",
+  "server": "Sham",
+  "customer_info": "1 Guests",
+  "items": [
+    {
+      "name": "CHICKEN TIKKA MASALA",
+      "specifications": "1 Spice Level: MEDIUM"
+    },
+    {
+      "name": "CHICKEN CURRY",
+      "specifications": "1 Spice Level: MEDIUM"
+    },
+    {
+      "name": "RICE"
+    },
+    {
+      "name": "MURADABADI GOSHT BIRYANI",
+      "specifications": "1 Spice Level: MEDIUM"
+    },
+    {
+      "name": "GARLIC NAAN"
+    },
+    {
+      "name": "GARLIC NAAN"
+    }
+  ],
+  "subtotal": null,
+  "tax": null,
+  "total": null,
+  "additional_info": "Kitchen Printer"
+}
